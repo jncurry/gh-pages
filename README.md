@@ -17,5 +17,5 @@ This is a paragraph.
 | Sample       | Table       | One |
 | ----------- |:-----------:| -----:|
 | No. of Dragons   | Scaled | 14
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| No. of Nifflers     | Grey    |  12 |
+| No. of Mooncalfs | Vegetarian |    1 |
