@@ -14,6 +14,8 @@ This is a paragraph.
 
 [Link to My Site](https://www.google.com)
 
-Sample  | Table | One
-________|:_______:|_____:|
-No: Dragons|Scaled|14|
+| Sample       | Table       | One |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
