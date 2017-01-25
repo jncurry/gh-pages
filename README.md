@@ -1,7 +1,7 @@
 # gh-pages
 Sample Website
 
-## Header 2
+## Sample Header
 
 This is a paragraph.
 
@@ -12,4 +12,8 @@ This is a paragraph.
 2. milk
 3. bacon
 
-[My Site]
+[Link to My Site](https://www.google.com)
+
+Sample  | Table | One
+________|:_______:|_____:|
+No: Dragons|Scaled|14|
